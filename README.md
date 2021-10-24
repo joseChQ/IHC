@@ -16,6 +16,6 @@ El propósito del presente trabajo es desarrollar un juego de ajedrez haciendo u
 
 <img src="https://user-images.githubusercontent.com/63762044/138613197-e928d252-c242-458d-8cc2-36a4d652906f.png" width="300"/>
 * Usando comandos de voz
-  * Para la manipulación de las piezas se utilizará la voz de forma que, mediante comandos basados en la nomenclatura estándar de filas y columnas del tablero, se puedan realizar los movimientos propios del ajedrez.
+  *  Para la manipulación de las piezas se utilizará la voz de forma que, mediante comandos basados en la nomenclatura estándar de filas y columnas del tablero, se puedan realizar los movimientos propios del ajedrez.
 
 <img src="https://user-images.githubusercontent.com/63762044/138613262-0ac5203c-6a34-44a9-a21f-0022887e2b89.png" width="300"/>
