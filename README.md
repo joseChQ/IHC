@@ -4,9 +4,9 @@ El propósito del presente trabajo es desarrollar un juego de ajedrez haciendo u
 * La plataforma de desarrollo base usada es Unity en su versión 2019.4.30f1
 * El kit de desarrollo para realidad aumentada es ARCore en su versión 1.14.0
 * Los paquetes adicionales usados son:
-*   XR Legacy Input Helpers 2.1.8
-*   Multiplayer HLAPI 1.0.8
+  * XR Legacy Input Helpers 2.1.8
+  * Multiplayer HLAPI 1.0.8
 * Módulos incluidos
-*   Android Build Support
-*   Android SDK y NDK Tools
-*   OpenJDK
+  * Android Build Support
+  * Android SDK y NDK Tools
+  * OpenJDK
