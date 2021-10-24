@@ -6,7 +6,10 @@ El propósito del presente trabajo es desarrollar un juego de ajedrez haciendo u
 * Los paquetes adicionales usados son:
   * XR Legacy Input Helpers 2.1.8
   * Multiplayer HLAPI 1.0.8
-* Módulos incluidos
+* Módulos incluidos:
   * Android Build Support
   * Android SDK y NDK Tools
   * OpenJDK
+# Prototipo
+<img src="https://user-images.githubusercontent.com/63762044/138613197-e928d252-c242-458d-8cc2-36a4d652906f.png" width="300"/>
+
