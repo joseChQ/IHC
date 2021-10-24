@@ -22,5 +22,5 @@ El propósito del presente trabajo es desarrollar un juego de ajedrez haciendo u
 <img src="https://user-images.githubusercontent.com/63762044/138613262-0ac5203c-6a34-44a9-a21f-0022887e2b89.png" width="300"/>
 
 # Visualización del Prototipo
-
+En la siguiente imagen podemos ver el juego de ajedrez con realidad aumentada.
 <img src="https://user-images.githubusercontent.com/63762044/138613598-0bb135d8-7666-4dcd-9fdf-8ea66a6d00e0.jpg" width="400"/>
