@@ -23,5 +23,5 @@ El aplicativo que se ha desarrollado es un juego de ajedrez que permite realizar
 <img src="https://user-images.githubusercontent.com/67440138/145686797-a5418015-086c-4317-b164-3ddff7390cf4.png" width="600">
 
 # Video de demostración
-* Perspectiva del equipo de las negras
-[![Negras](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.loom.com/share/20dfcb3bb86444cab67556aba7d7dd3d)
+* Perspectiva del equipo de las blancas
+[![Blancas](https://img.youtube.com/vi/2axbNi9ZjwI/maxresdefault.jpg)](https://youtu.be/2axbNi9ZjwI)
