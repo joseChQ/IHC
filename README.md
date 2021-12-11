@@ -24,4 +24,4 @@ El aplicativo que se ha desarrollado es un juego de ajedrez que permite realizar
 
 # Video de demostración
 * Perspectiva del equipo de las negras
-[![Negras]](https://www.loom.com/share/20dfcb3bb86444cab67556aba7d7dd3d)
+![Negras](https://www.loom.com/share/20dfcb3bb86444cab67556aba7d7dd3d)
