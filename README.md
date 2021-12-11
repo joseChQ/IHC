@@ -18,4 +18,4 @@ El aplicativo que se ha desarrollado es un juego de ajedrez que permite realizar
 * Colaboradores: Un equipo puede tener varios colaboradores que son los encargados de brindar sugerencias de movimientos a su capitán. Los colaboradores tienen una visión del transcurso de la partida en tiempo real y pueden saber de qué equipo es el turno. En caso que sea el turno del equipo, se les habilita la opción de poder marcar una ayuda a su capitán indicando el movimiento que ellos sugieren.
 
 # Visualización del Prototipo
-
+<img src="https://user-images.githubusercontent.com/67440138/145686797-a5418015-086c-4317-b164-3ddff7390cf4.png" width="600">
