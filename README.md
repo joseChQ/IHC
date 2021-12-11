@@ -25,3 +25,5 @@ El aplicativo que se ha desarrollado es un juego de ajedrez que permite realizar
 # Video de demostración
 * Perspectiva del equipo de las blancas
 [![Blancas](https://img.youtube.com/vi/2axbNi9ZjwI/maxresdefault.jpg)](https://youtu.be/2axbNi9ZjwI)
+* Perspectiva del equipo de las negras
+[![Negras](https://img.youtube.com/vi/f9wGAMeYBOU/maxresdefault.jpg)](https://youtu.be/f9wGAMeYBOU)
