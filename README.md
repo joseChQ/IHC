@@ -17,5 +17,7 @@ El aplicativo que se ha desarrollado es un juego de ajedrez que permite realizar
 * Capitán: El capitán del equipo es el jugador encargado de tomar la decisión final sobre la pieza y el movimiento que realizará durante su turno en la partida. El capitán del equipo es la única persona que puede ver las sugerencias de movimientos de sus colaboradores.
 * Colaboradores: Un equipo puede tener varios colaboradores que son los encargados de brindar sugerencias de movimientos a su capitán. Los colaboradores tienen una visión del transcurso de la partida en tiempo real y pueden saber de qué equipo es el turno. En caso que sea el turno del equipo, se les habilita la opción de poder marcar una ayuda a su capitán indicando el movimiento que ellos sugieren.
 
+<img src="https://user-images.githubusercontent.com/67440138/145686849-56b8d1b7-5610-4dc3-88a5-033f24c3d690.png" width="600">
+
 # Visualización del Prototipo
 <img src="https://user-images.githubusercontent.com/67440138/145686797-a5418015-086c-4317-b164-3ddff7390cf4.png" width="600">
