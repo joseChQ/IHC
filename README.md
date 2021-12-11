@@ -21,3 +21,7 @@ El aplicativo que se ha desarrollado es un juego de ajedrez que permite realizar
 
 # Visualización del Prototipo
 <img src="https://user-images.githubusercontent.com/67440138/145686797-a5418015-086c-4317-b164-3ddff7390cf4.png" width="600">
+
+# Video de demostración
+* Perspectiva del equipo de las negras
+[![Negras]](https://www.loom.com/share/20dfcb3bb86444cab67556aba7d7dd3d)
